@@ -105,7 +105,7 @@ Vue JavaScript HTML CSS Less webpack git 微信小程序 等
 - Email xxxxxxx
 - 手机 xxxxxxx
 
-# 其他乱七八糟
+# 乱七八糟
 - 暂时还没想到
 - 拜拜 
 
