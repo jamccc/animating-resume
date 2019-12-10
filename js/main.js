@@ -24,7 +24,7 @@ function writeMarkdown(markdown, fn){
       window.clearInterval(id)
       fn && fn.call()
     }
-  }, 30)
+  }, 50)
 }
 
 var css1 = `/* 
@@ -87,7 +87,6 @@ var md = `
 1996 年 1 月出生
 XXX 学校毕业
 毕业至今，从事前端2年
-希望应聘前端开发岗位
 
 # 技能介绍
 
@@ -95,9 +94,10 @@ Vue JavaScript HTML CSS Less webpack git 微信小程序 等
 
 # 项目介绍
 
-1. H5移动端页面
-2. PC端页面
+1. H5
+2. PC
 3. 微信小程序
+4. 其他
 
 # 联系方式
 
@@ -112,7 +112,7 @@ Vue JavaScript HTML CSS Less webpack git 微信小程序 等
 `
 let css3 = `
 /*
- * 这就是我的会动的自我介绍
+ * 这就是我的会动的简历
  * 谢谢观看
  */
 `
