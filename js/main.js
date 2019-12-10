@@ -28,7 +28,7 @@ function writeMarkdown(markdown, fn){
 }
 
 var css1 = `/* 
- * 面试官你好，我是JAm
+ * 搭嘎好，我是JAm
  * 只用文字作做我介绍太单调了
  * 我就用代码来介绍吧
  * 首先准备一些样式
@@ -102,13 +102,17 @@ Vue JavaScript HTML CSS Less webpack git 微信小程序 等
 # 联系方式
 
 - QQ xxxxxxxx
-- Email jamis404@163.com
+- Email xxxxxxx
 - 手机 xxxxxxx
+
+# 其他乱七八糟
+- 暂时还没想到
+- 拜拜 
 
 `
 let css3 = `
 /*
- * 这就是我的会动的简历
+ * 这就是我的会动的自我介绍
  * 谢谢观看
  */
 `
